@@ -19,6 +19,18 @@
 - 한개씩 찍어내는걸로 내가 만족할까?? 병렬로 하게된다면 파이프라이닝같이 가능할까..?
 
 
+
+<br>
+
+## 참고 자료
+- 캐러멜화 간단 설명 : https://www.lgsl.kr/cur/HODA2012110004
+- 설탕 시럽 제조 프로세스 : https://gazeta500.ru/ko/how-to-cook-sugar-syrup-cook-the-sugar-syrup-correctly-the-cooking-process-and-the-cooking-time/
+- 마이야르 반응 : https://igija.tistory.com/633
+- 카라멜화 반응(롯데정밀화학) : https://www.finelfc.com/405
+- 나무위키 달고나 : https://namu.wiki/w/달고나
+
+
+
 <br>
 
 ## 참여자
