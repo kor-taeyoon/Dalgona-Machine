@@ -22,6 +22,24 @@
 
 <br>
 
+## 소요 부품
+
+
+
+<br>
+
+## 부품 후보군
+- 설탕 가열 관련
+  - PTC 플레이트 : https://ko.aliexpress.com/item/1005002584287504.html?spm=a2g0o.cart.0.0.5f0b3c004Cnr35&mp=1
+  - PTC 히터 : https://www.aliexpress.com/item/32695646350.html?spm=a2g0o.cart.0.0.5f0b3c004Cnr35&mp=1
+  - 코일 인덕션 코일 : https://www.aliexpress.com/item/4001289118879.html?spm=a2g0o.cart.0.0.5f0b3c004Cnr35&mp=1
+  - 납 용광로 : https://www.aliexpress.com/item/32901608493.html?spm=a2g0o.cart.0.0.5f0b3c004Cnr35&mp=1
+  - 주철 핸디 용광로 : https://www.aliexpress.com/item/4001340531763.html?spm=a2g0o.cart.0.0.5f0b3c004Cnr35&mp=1
+
+
+
+<br>
+
 ## 참고 자료
 - 캐러멜화 간단 설명 : https://www.lgsl.kr/cur/HODA2012110004
 - 설탕 시럽 제조 프로세스 : https://gazeta500.ru/ko/how-to-cook-sugar-syrup-cook-the-sugar-syrup-correctly-the-cooking-process-and-the-cooking-time/
